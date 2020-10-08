@@ -1,0 +1,287 @@
+{
+  "keys": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\config\\config.default.js",
+  "security": {
+    "csrf": {
+      "enable": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\config\\config.default.js",
+      "ignoreJSON": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\config\\config.default.js",
+      "type": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "useSession": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "cookieName": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "sessionName": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "headerName": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "bodyName": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "queryName": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "refererWhiteList": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.local.js",
+      "maxAge": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "policy": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "checkAddress": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    }
+  },
+  "mysql": {
+    "client": {
+      "host": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\config\\config.default.js",
+      "port": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\config\\config.default.js",
+      "user": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\config\\config.default.js",
+      "password": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\config\\config.default.js",
+      "database": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\config\\config.default.js"
+    },
+    "default": {
+      "database": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
+      "connectionLimit": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
+    },
+    "app": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
+    "agent": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
+  },
+  "cluster": {
+    "listen": {
+      "path": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\config\\config.default.js",
+      "port": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\config\\config.default.js",
+      "hostname": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\config\\config.default.js",
+    "allowMethods": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\config\\config.default.js",
+    "autoFields": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldSize": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fields": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileSize": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "files": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "whitelist": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "tmpdir": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "key": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "httpOnly": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "encrypt": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js",
+      "development": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js",
+      "file": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "ignoreDirs": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "fastReady": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideDefault": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideIgnore": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dir": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "cache": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
+    "defaultExtension": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "mapping": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
+  },
+  "env": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "name": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "cookies": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "proxy": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "maxIpsCount": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "maxProxyCount": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "protocolHeaders": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "ipHeaders": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "hostHeaders": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "version": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "description": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "main": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "scripts": {
+      "test": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "dev": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "author": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "license": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "dependencies": {
+      "@alicloud/pop-core": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "egg": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "egg-cors": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "egg-mysql": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "HOME": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "rundir": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "notFound": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "sitefile": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "middlewares": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "httpClient": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "encoding": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "formLimit": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "jsonLimit": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "textLimit": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "strict": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "depth": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "parameterLimit": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "onerror": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "encoding": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "env": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "level": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "consoleLevel": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "outputJSON": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "buffer": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "appLogName": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "coreLogName": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "agentLogName": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "errorLogName": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "maxSockets": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "maxSockets": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "logging": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "serverTimeout": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "clusterClient": {
+    "maxWaitTime": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "responseTimeout": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "onClientError": "F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+}

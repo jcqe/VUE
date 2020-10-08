@@ -1,0 +1,62 @@
+2020-09-04 15:52:07,045 INFO 17568 [egg:logger] init all loggers with options: {"dir":"F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\logs\\BeeLove","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"BeeLove-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-09-04 15:52:07,075 INFO 17568 [egg-multipart] file mode enable
+2020-09-04 15:52:07,075 INFO 17568 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\BeeLove", cleanup job cron: "0 30 4 * * *"
+2020-09-04 15:52:07,075 INFO 17568 [egg-mysql] connecting root@localhost:3306/beelove
+2020-09-04 15:52:17,094 INFO 17568 [egg-static] starting static serve /public/ -> F:\H\VUE\vue项目\BeeLove\backstage\app\public
+2020-09-04 15:52:17,099 INFO 17568 [egg-security] use methodnoallow middleware
+2020-09-04 15:52:17,100 INFO 17568 [egg-security] use noopen middleware
+2020-09-04 15:52:17,137 INFO 17568 [egg-security] use nosniff middleware
+2020-09-04 15:52:17,138 INFO 17568 [egg-security] use xssProtection middleware
+2020-09-04 15:52:17,138 INFO 17568 [egg-security] use xframe middleware
+2020-09-04 15:52:17,145 INFO 17568 [egg-security] use dta middleware
+2020-09-04 15:52:17,146 INFO 17568 [egg-security] compose 6 middlewares into one security middleware
+2020-09-04 15:52:17,381 INFO 17568 [egg:core] dump config after load, 27ms
+2020-09-04 15:52:17,456 INFO 17568 [egg-watcher:application] watcher start success
+2020-09-04 15:52:17,646 INFO 17568 [egg-mysql] instance[0] status OK, rds currentTime: Fri Sep 04 2020 15:52:17 GMT+0800 (GMT+08:00)
+2020-09-04 15:52:17,708 INFO 17568 [egg:core] dump config after ready, 44ms
+2020-09-07 19:28:11,556 INFO 5784 [egg:logger] init all loggers with options: {"dir":"F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\logs\\BeeLove","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"BeeLove-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-09-07 19:28:11,588 INFO 5784 [egg-multipart] file mode enable
+2020-09-07 19:28:11,589 INFO 5784 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\BeeLove", cleanup job cron: "0 30 4 * * *"
+2020-09-07 19:28:11,589 INFO 5784 [egg-mysql] connecting root@localhost:3306/beelove
+2020-09-07 19:28:21,142 INFO 5784 [egg-static] starting static serve /public/ -> F:\H\VUE\vue项目\BeeLove\backstage\app\public
+2020-09-07 19:28:21,211 INFO 5784 [egg-security] use methodnoallow middleware
+2020-09-07 19:28:21,401 INFO 5784 [egg-security] use noopen middleware
+2020-09-07 19:28:21,436 INFO 5784 [egg-security] use nosniff middleware
+2020-09-07 19:28:21,444 INFO 5784 [egg-security] use xssProtection middleware
+2020-09-07 19:28:21,452 INFO 5784 [egg-security] use xframe middleware
+2020-09-07 19:28:21,487 INFO 5784 [egg-security] use dta middleware
+2020-09-07 19:28:21,487 INFO 5784 [egg-security] compose 6 middlewares into one security middleware
+2020-09-07 19:28:21,710 INFO 5784 [egg:core] dump config after load, 22ms
+2020-09-07 19:28:17,528 INFO 7832 [egg:logger] init all loggers with options: {"dir":"F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\logs\\BeeLove","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"BeeLove-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-09-07 19:28:17,563 INFO 7832 [egg-multipart] file mode enable
+2020-09-07 19:28:17,563 INFO 7832 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\BeeLove", cleanup job cron: "0 30 4 * * *"
+2020-09-07 19:28:17,563 INFO 7832 [egg-mysql] connecting root@localhost:3306/beelove
+2020-09-07 19:28:21,141 INFO 7832 [egg-static] starting static serve /public/ -> F:\H\VUE\vue项目\BeeLove\backstage\app\public
+2020-09-07 19:28:21,211 INFO 7832 [egg-security] use methodnoallow middleware
+2020-09-07 19:28:21,400 INFO 7832 [egg-security] use noopen middleware
+2020-09-07 19:28:21,435 INFO 7832 [egg-security] use nosniff middleware
+2020-09-07 19:28:21,443 INFO 7832 [egg-security] use xssProtection middleware
+2020-09-07 19:28:21,451 INFO 7832 [egg-security] use xframe middleware
+2020-09-07 19:28:21,486 INFO 7832 [egg-security] use dta middleware
+2020-09-07 19:28:21,486 INFO 7832 [egg-security] compose 6 middlewares into one security middleware
+2020-09-07 19:28:21,723 INFO 7832 [egg:core] dump config after load, 35ms
+2020-09-07 19:28:21,798 INFO 5784 [egg-watcher:application] watcher start success
+2020-09-07 19:28:21,798 INFO 7832 [egg-watcher:application] watcher start success
+2020-09-07 19:28:23,919 INFO 7832 [egg-mysql] instance[0] status OK, rds currentTime: Mon Sep 07 2020 19:28:23 GMT+0800 (GMT+08:00)
+2020-09-07 19:28:24,012 INFO 7832 [egg:core] dump config after ready, 88ms
+2020-09-07 19:28:25,324 INFO 12776 [egg:logger] init all loggers with options: {"dir":"F:\\H\\VUE\\vue项目\\BeeLove\\backstage\\logs\\BeeLove","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"BeeLove-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-09-07 19:28:25,360 INFO 12776 [egg-multipart] file mode enable
+2020-09-07 19:28:25,360 INFO 12776 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\BeeLove", cleanup job cron: "0 30 4 * * *"
+2020-09-07 19:28:25,360 INFO 12776 [egg-mysql] connecting root@localhost:3306/beelove
+2020-09-07 19:28:25,618 INFO 12776 [egg-static] starting static serve /public/ -> F:\H\VUE\vue项目\BeeLove\backstage\app\public
+2020-09-07 19:28:25,622 INFO 12776 [egg-security] use methodnoallow middleware
+2020-09-07 19:28:25,623 INFO 12776 [egg-security] use noopen middleware
+2020-09-07 19:28:25,625 INFO 12776 [egg-security] use nosniff middleware
+2020-09-07 19:28:25,626 INFO 12776 [egg-security] use xssProtection middleware
+2020-09-07 19:28:25,628 INFO 12776 [egg-security] use xframe middleware
+2020-09-07 19:28:25,629 INFO 12776 [egg-security] use dta middleware
+2020-09-07 19:28:25,629 INFO 12776 [egg-security] compose 6 middlewares into one security middleware
+2020-09-07 19:28:25,673 INFO 12776 [egg:core] dump config after load, 29ms
+2020-09-07 19:28:25,711 INFO 12776 [egg-watcher:application] watcher start success
+2020-09-07 19:28:25,785 INFO 12776 [egg-mysql] instance[0] status OK, rds currentTime: Mon Sep 07 2020 19:28:25 GMT+0800 (GMT+08:00)
+2020-09-07 19:28:25,842 INFO 12776 [egg:core] dump config after ready, 51ms

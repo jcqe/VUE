@@ -1,0 +1,32 @@
+/* 公共样式 */
+*{
+	padding: 0;
+	margin: 0;
+}
+
+input {
+	outline: none;
+}
+
+ul{
+	list-style: none;
+}
+
+body {
+	background-color: #f6f6f6;
+}
+
+.container {
+	/* 版心 */
+	width: 1190px;
+	margin: 0 auto;
+}
+
+[v-clock] {
+	display: none;
+}
+
+.hvptr:hover {
+	/* 鼠标悬停小手 */
+	cursor: pointer;
+}

@@ -1,0 +1,18 @@
+2020-09-04 15:52:07,074 INFO 17568 [egg-schedule]: register schedule F:\H\VUE\vue项目\BeeLove\backstage\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-04 15:52:07,074 INFO 17568 [egg-schedule]: register schedule F:\H\VUE\vue项目\BeeLove\backstage\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-09-04 15:52:07,074 INFO 17568 [egg-schedule]: register schedule F:\H\VUE\vue项目\BeeLove\backstage\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-04 15:52:17,750 INFO 19092 [Timer] F:\H\VUE\vue项目\BeeLove\backstage\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 45462252ms at 2020-09-05 04:30:00.002
+2020-09-04 15:52:17,751 INFO 19092 [Timer] F:\H\VUE\vue项目\BeeLove\backstage\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 29262249ms at 2020-09-05 00:00:00.000
+2020-09-04 15:52:17,751 INFO 19092 [Timer] F:\H\VUE\vue项目\BeeLove\backstage\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 29263249ms at 2020-09-05 00:00:01.000
+2020-09-07 19:28:11,588 INFO 5784 [egg-schedule]: register schedule F:\H\VUE\vue项目\BeeLove\backstage\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-07 19:28:11,588 INFO 5784 [egg-schedule]: register schedule F:\H\VUE\vue项目\BeeLove\backstage\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-09-07 19:28:11,588 INFO 5784 [egg-schedule]: register schedule F:\H\VUE\vue项目\BeeLove\backstage\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-07 19:28:17,562 INFO 7832 [egg-schedule]: register schedule F:\H\VUE\vue项目\BeeLove\backstage\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-07 19:28:17,562 INFO 7832 [egg-schedule]: register schedule F:\H\VUE\vue项目\BeeLove\backstage\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-09-07 19:28:17,562 INFO 7832 [egg-schedule]: register schedule F:\H\VUE\vue项目\BeeLove\backstage\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-07 19:28:24,040 INFO 11712 [Timer] F:\H\VUE\vue项目\BeeLove\backstage\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 32495963ms at 2020-09-08 04:30:00.003
+2020-09-07 19:28:24,040 INFO 11712 [Timer] F:\H\VUE\vue项目\BeeLove\backstage\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 16295960ms at 2020-09-08 00:00:00.000
+2020-09-07 19:28:24,041 INFO 11712 [Timer] F:\H\VUE\vue项目\BeeLove\backstage\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 16296960ms at 2020-09-08 00:00:01.001
+2020-09-07 19:28:25,359 INFO 12776 [egg-schedule]: register schedule F:\H\VUE\vue项目\BeeLove\backstage\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-07 19:28:25,359 INFO 12776 [egg-schedule]: register schedule F:\H\VUE\vue项目\BeeLove\backstage\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-09-07 19:28:25,359 INFO 12776 [egg-schedule]: register schedule F:\H\VUE\vue项目\BeeLove\backstage\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
